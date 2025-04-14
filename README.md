@@ -1,7 +1,7 @@
-#Expenses Trip App
+# Expenses Trip App
 A mobile application designed to track and manage trip-related expenses. The app uses SQLite for local storage and provides a seamless experience for users to efficiently organize their trip expenses.
 
-#Features
+# Features
 - SQLite Local Storage: All data is securely stored locally using SQLite, ensuring reliability and quick access.
 - CRUD Operations: Fully implemented Create, Read, Update, and Delete functionality for managing expenses.- Create: Add new expense records.
 - Read: View detailed lists of all expenses.
@@ -9,12 +9,12 @@ A mobile application designed to track and manage trip-related expenses. The app
 - Delete: Remove expense records no longer needed.
 
 
-G#etting Started
+# Getting Started
 Prerequisites
 - Android Studio (or your preferred IDE for mobile app development).
 - Basic knowledge of SQLite and app development.
 
-I#nstallation
+# Installation
 
 1. Clone the repository
    - git clone git@github.com:Taosaywong/Java-Coursework.git
